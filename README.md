@@ -48,12 +48,12 @@ INSERT INTO topic (title, description, author) VALUES('JavaScript', 'Computer la
 **파일을 다운로드 받는다**
 
 ```javascripts
-git clone ps://github.com/TaeKyoungKim/userlistweb
+git clone ps://github.com/TaeKyoungKim/userlistwebs
 
 ```
 **폴더로 이동**
 <code><pre>
-cd userlistweb
+cd userlistwebs
 </pre></code>
 
 관련 모듈을 설치한다.
