@@ -62,16 +62,7 @@ npm install
 </pre></code>
 
 
-## .env 파일을 생성후
 
-<code><pre>
-DB_HOST = [host 주소]
-DB_USER = [mysql login user]
-DB_PASSWORD =[mysql login password]
-DB_DATABASE = [mysql db name]
-  
-PORT =<사용하고자 하는 포트>
-</pre></code>
 ## .gitignore 파일 생성후
 
 <code><pre>
