@@ -48,7 +48,7 @@ INSERT INTO topic (title, description, author) VALUES('JavaScript', 'Computer la
 **파일을 다운로드 받는다**
 
 ```javascripts
-git clone ps://github.com/TaeKyoungKim/userlistwebs
+git clone https://github.com/TaeKyoungKim/userlistwebs.git
 
 ```
 **폴더로 이동**
